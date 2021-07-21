@@ -1,6 +1,6 @@
 package org.openstreetmap.atlas.checks.validation.relations;   
 
-import java.util.*;
+import java.util.*; //
 import java.io.*;
 
 import org.openstreetmap.atlas.checks.base.BaseCheck;
