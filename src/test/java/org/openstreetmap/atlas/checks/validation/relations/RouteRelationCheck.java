@@ -1,4 +1,4 @@
-package org.openstreetmap.atlas.checks.validation.relations;
+package org.openstreetmap.atlas.checks.validation.relations;   
 
 import java.util.*;
 import java.io.*;
@@ -31,7 +31,7 @@ import org.slf4j.LoggerFactory;
 import com.google.common.base.Strings;
 
 
-/**
+/** //
  * This check identifies route objects in OSM that have gaps in tracks. a specified street number (addr:housenumber)
  * but no specified street name (addr:street) and are not part of an associated street Relation. No
  * specified street name refers to either having a null value for the street name key, or no street
