@@ -37,7 +37,7 @@ import com.google.common.base.Strings;
  * specified street name refers to either having a null value for the street name key, or no street
  * name key present at all.
  *
- * @author Lluc
+ * @author Lluc  >>>
  */
 
 public class RouteRelationCheck extends BaseCheck<Object>
